@@ -1,0 +1,88 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "title": "ASP.NET Core",
+            "description": "A cross-platform, high-performance framework for building modern, cloud-based, internet-connected applications.",
+            "progress": 60
+        },
+        {
+            "id": 2,
+            "title": "aiogram",
+            "description": "A Python framework for developing Telegram bots, providing easy-to-use tools and abstractions for interacting with the Telegram Bot API.",
+            "progress": 70
+        },
+        {
+            "id": 3,
+            "title": "Django",
+            "description": "A high-level Python web framework that encourages rapid development and clean, pragmatic design, known for its built-in features and scalability.",
+            "progress": 70
+        },
+        {
+            "id": 4,
+            "title": "P-SQL",
+            "description": "Presumably referring to PostgreSQL, an open-source relational database management system known for its reliability, robustness, and advanced features.",
+            "progress": 80
+        },
+        {
+            "id": 5,
+            "title": "React",
+            "description": "A JavaScript library for building user interfaces, developed by Facebook, known for its component-based architecture and efficient rendering.",
+            "progress": 20
+        },
+        {
+            "id": 6,
+            "title": "TypeScript",
+            "description": "A superset of JavaScript that adds static typing and other features to help developers write more scalable and maintainable code.",
+            "progress": 0
+        },
+        {
+            "id": 7,
+            "title": "Docker",
+            "description": "A platform for developing, shipping, and running applications inside containers, providing lightweight, portable, and self-sufficient execution environments.",
+            "progress": 0
+        },
+        {
+            "id": 8,
+            "title": "Golang",
+            "description": "Also known as Go, a statically typed, compiled programming language designed for simplicity, efficiency, and concurrency.",
+            "progress": 0
+        },
+        {
+            "id": 9,
+            "title": "Node.js",
+            "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine, used for building scalable network applications, known for its event-driven, non-blocking I/O model.",
+            "progress": 10
+        },
+        {
+            "id": 10,
+            "title": "Kubernetes",
+            "description": "An open-source container orchestration platform for automating deployment, scaling, and management of containerized applications.",
+            "progress": 0
+        },
+        {
+            "id": 11,
+            "title": "OpenAPI",
+            "description": "A specification for building APIs, allowing developers to describe and document RESTful APIs in a standardized way, promoting interoperability and code generation.",
+            "progress": 0
+        },
+        {
+            "id": 12,
+            "title": "YOLO",
+            "description": "You Only Look Once (YOLO) is a real-time object detection system, known for its speed and accuracy in detecting objects in images or video streams.",
+            "progress": 10
+        },
+        {
+            "id": 13,
+            "title": "Keras",
+            "description": "A high-level neural networks API, written in Python and capable of running on top of TensorFlow or other deep learning frameworks, designed for fast experimentation and prototyping.",
+            "progress": 20
+        },
+        {
+            "id": 14,
+            "title": "PyTorch",
+            "description": "An open-source machine learning library, developed by Facebook's AI Research lab (FAIR), known for its flexibility, ease of use, and dynamic computational graph.",
+            "progress": 20
+        }
+    ]
+}
